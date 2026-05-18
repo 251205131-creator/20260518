@@ -1,8 +1,33 @@
+commit a416c0dc5c8dc167419b518680045da273db3de7
+Author: しゅん <syunn20061207@gmail.com>
+Date:   Mon May 18 14:30:49 2026 +0900
+
+    コンフリクトの解決
+
+commit 31b01717c1dfec24057420ef9b3384a0f4c61e63
+Merge: 5bc699f b6c17db
+Author: しゅん <syunn20061207@gmail.com>
+Date:   Mon May 18 14:30:37 2026 +0900
+
+    Merge branch 'main' of https://github.com/251205131-creator/20260518
+
+commit b6c17dbb9ea01556d086e35a33cab60f7f9404e3
+Author: 中野間 俊平 <251205131@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 14:20:06 2026 +0900
+
+    Update tetris.js　色変えた
+
 commit 5bc699f874ff755c308b2cfbcbe519385fe9e30b
 Author: しゅん <syunn20061207@gmail.com>
 Date:   Mon May 18 14:18:02 2026 +0900
 
     blue to skyblue
+
+commit 9ce956b4c3fc347d8a3247c65d402de2d35aac6a
+Author: 中野間 俊平 <251205131@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 18 14:16:14 2026 +0900
+
+    Change Tetris game interval from 400ms to 1000ms and cyan to skyblue
 
 commit 45d49d3021c98cee4dc6ddebe7fa11e20c03a823
 Author: しゅん <syunn20061207@gmail.com>
