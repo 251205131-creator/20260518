@@ -1,0 +1,23 @@
+commit 5bc699f874ff755c308b2cfbcbe519385fe9e30b
+Author: しゅん <syunn20061207@gmail.com>
+Date:   Mon May 18 14:18:02 2026 +0900
+
+    blue to skyblue
+
+commit 45d49d3021c98cee4dc6ddebe7fa11e20c03a823
+Author: しゅん <syunn20061207@gmail.com>
+Date:   Mon May 18 14:09:04 2026 +0900
+
+    ミノのスピードを遅くしました
+
+commit bc3cde6d49fad7292787df92d355f68895ae90cb
+Author: しゅん <syunn20061207@gmail.com>
+Date:   Mon May 18 13:56:08 2026 +0900
+
+    ミノの色をライムに変更
+
+commit 422824f3aab35d1aab732c5171ae1faf57c288cc
+Author: しゅん <syunn20061207@gmail.com>
+Date:   Mon May 18 13:32:50 2026 +0900
+
+    canvas-tetrisのソースコードをインポート
